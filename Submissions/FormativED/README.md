@@ -1,17 +1,14 @@
 # 📱 Application: FormativED
 
-### 🏆 TeachAthon 2025 Status: [Insert Placement]
+### 🏆 TeachAthon 2025 Status: Short-listed
 
 ---
 
 ## 👥 Project Contributors
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
+* **Gregorius Jason** | Contact: n/a
 
 ## 🚀 Project Description
-[Insert a short description or abstract of the FormativED application here].
-
-*Note: The Synthetic Processes & Embodiment Labs (SPEL) is currently reviewing and curating the text assets for this submission in agreement with the submitters.*
+FormativED is an AI-powered formative assessment platform that reads and annotates handwritten student work, providing immediate feedback against instructor-defined materials and rubrics. It then generates personalised follow-up questions based on performance and gives instructors analytics on class trends, misconceptions, and individual progress.
 
 ## 📄 Original Submission Document
 The original submission document for FormativED can be found directly within this folder.
