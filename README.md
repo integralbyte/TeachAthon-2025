@@ -18,7 +18,7 @@ Select a project name below to open its dedicated folder, where you can read a c
 | **4th Place**                | [StudyAI](./Submissions/StudyAI/)             | Caroline Rennier, Orkun Kınay                                                                     | Course-grounded Socratic AI tutoring that adapts to students, tracks misconceptions, and verifies its explanations across multiple AI modules.   |
 | **5th Place**                | [MindfuLLM](./Submissions/MindfuLLM/)         | Jason Latz, Benedek Labancz, Ivan Sowerby, Dhyey Mehta, Alp Niksarli, Ömer Tuğrul, Barış Tekdemir | A browser extension that converts selected academic LLM conversations into personalised multiple-choice and free-response quizzes.               |
 | **Shortlisted**              | [FormativED](./Submissions/FormativED/)       | Gregorius Jason                                                                                   | Adaptive formative assessment for handwritten work, providing immediate annotations, personalised follow-up questions, and instructor analytics. |
-| **Shortlisted**              | [Symbol-Sense](./Submissions/Symbol%20Sense/) | Resa Kemal Saharso, Gregorius Dimas Baskara, Rahmah Khoirussyifa Nurdini, Nabillah Octarani       | Image-based interpretation of mathematical notation, with symbol explanations, derivation guidance, practice questions, and related resources.   |
+| **Shortlisted**              | [Symbol-Sense](./Submissions/Symbol-Sense/) | Resa Kemal Saharso, Gregorius Dimas Baskara, Rahmah Khoirussyifa Nurdini, Nabillah Octarani       | Image-based interpretation of mathematical notation, with symbol explanations, derivation guidance, practice questions, and related resources.   |
 
 ---
 
