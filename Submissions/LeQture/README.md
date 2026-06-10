@@ -5,16 +5,13 @@
 ---
 
 ## 👥 Project Contributors
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
-* **[Insert Contributor Name]** | Contact: [Insert Email/Social or Leave Blank]
+* **Shlok Gupta** | Contact: n/a
 
 ## 🚀 Project Description
-[Insert a short description or abstract of the LeQture application here].
-
-*Note: The Synthetic Processes & Embodiment Labs (SPEL) is currently reviewing and curating the text assets for this submission in agreement with the submitters.*
+LeQture is a browser extension that adds context-aware AI assistance directly to recorded lectures and YouTube videos, answering questions using the current slide, transcript, and timestamped references. It also turns lecture content into quizzes, flashcards, interactive summaries, and structured revision materials.
 
 ## 📄 Original Submission Document
-The original submission document for GradeIQ can be found directly within this folder.
+The original submission document for LeQture can be found directly within this folder.
 
 ---
 *Archived by the Synthetic Processes & Embodiment Labs (SPEL)*
